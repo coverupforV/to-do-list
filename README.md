@@ -2,22 +2,7 @@
 
 **此项目使用`Gin`+`Gorm` ，基于`RESTful API`实现的一个备忘录**。
 
-**此项目比较适合小白入门`web开发`这一方面**
-# 详细教程
-
-**注意，最新版本是v2**
-
-B站: 
-- v1版本：https://www.bilibili.com/video/BV1GT4y1R7tX 
-- 重构v2版本：https://www.bilibili.com/video/BV13z4y1a7ZJ
-
-博客: 
-- v1版本：https://blog.csdn.net/weixin_45304503/article/details/120680957
-- 重构v2版本：https://blog.csdn.net/weixin_45304503/article/details/130460797
-
 **前端仓库地址：https://github.com/CocaineCong/react-todolist**
-
-
 ## 项目运行
 ### 手动执行
 **本项目使用`Go Mod`管理依赖。**
@@ -55,22 +40,6 @@ make env-down
 也可以启动项目后，直接访问 http://localhost:3000/swagger/index.html 
 
 查看**swagger**文档
-
-也可以选择postman文档导入
-
-打开postman，点击导入
-
-![postman导入](docs/1.点击import导入.png)
-
-选择导入文件
-![选择导入接口文件](docs/2.选择文件.png)
-
-![导入](docs/3.导入.png)
-
-效果
-
-![展示](docs/4.效果.png)
-
 
 ## 项目主要功能介绍
 
